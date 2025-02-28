@@ -1,1 +1,22 @@
-Aula 28 de fevereiro
+Aula 28 de fevereiro ------ Eng de Requisitos
+
+Definição: Uma capacidade de um software atender as necessidades do cliente de resolver um problema e atingir seu objetivo.
+
+Requisitos:  Levantar REQUISITOS de um software que permita a construção de um sistema que atneda as NECESSIDADES do CLIENTE e, assim, resolva seu PROBLEMA.
+
+Blueprint/ Pirâmide de requisitos:  Modelar de forma simples e ampla o processo de elicitação(decobrir requisitos) de requisitos para enender como abordamos diferentes aspectos do processo.
+
+  REQUISITOS:::
+Condições para desenvolvimento -- O software é a SOLUÇÃO do seu PROBLEMA, é a SOLUÇÃO para ganhar vantagem competitiva.
+
+Para produzirmo uma SOLUÇÂO, precisamos antes, entender o PROBLEMA e as NECESSIDADES do Clinete.
+Um problema pode ter várias alternativas de SOLUÇÂO, para o cliente poder escolher ele precisa conhecer as CARACTERÍSTICAS de cada SOLUÇÃO.
+
+Para o desenvolvedor poder produzir a SOLUÇÃO do clinete, ele deve atender a um conjunto de REQUISITOS da SOLUÇÃO.
+
+
+Falhas comuns são: falta de retorno do usuário, requisitos e especificações incompletas, mudança nos requisitos e especificações.
+
+A Engenharia de Requisitos é essencial para construirmos uma SOLUÇÃO que atenda às NECESSIDADES do Cliente e resolva o seu PROBLEMA dentro do Custo, Tempo e Escopo estabelecidos em contrato.
+
+No arquivo a partir da pagina 12 é referente ao projeto.  
