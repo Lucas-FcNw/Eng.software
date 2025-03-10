@@ -1,3 +1,9 @@
+LINKS ÚTEIS:
+GitLab:  https://mackcloud.mackenzie.br/gitlab
+Teams: https://teams.microsoft.com/l/team/19%3AyzaIjkVr1xSbywy4n2OPk4__r7Wma2EXSsAB2bVO3Ro1%40thread.tacv2/conversations?groupId=a922cf92-e179-4b64-9509-5f5e143078cc&tenantId=51da9440-4e5e-47b3-8e5c-4817f6f43c04
+
+
+
 Aula 28 de fevereiro ------ Eng de Requisitos
 
 Definição: Uma capacidade de um software atender as necessidades do cliente de resolver um problema e atingir seu objetivo.
@@ -20,3 +26,53 @@ Falhas comuns são: falta de retorno do usuário, requisitos e especificações 
 A Engenharia de Requisitos é essencial para construirmos uma SOLUÇÃO que atenda às NECESSIDADES do Cliente e resolva o seu PROBLEMA dentro do Custo, Tempo e Escopo estabelecidos em contrato.
 
 No arquivo a partir da pagina 12 é referente ao projeto.  
+
+Aula 10 de março ------ Uso do Gitlab   Escopo de Requisito
+
+Escopo = Soma dos produtos, serviços e resultados fornecidos.
+
+Escopo de produto = caracteristicas e funções que descrevem um produto, serviço ou resultado com suas caracteristricas e funções especificadas.
+
+Escopo de projeto = trabalho que deve ser realizado para entregar um produto, serviço ou resultado com as características e funções especificadas.
+
+
+          REQUISITOS
+
+Pode ser uma declaração abstrata de alto nível ou restrição de sistema.
+Servem a diversas funções:
+- Base para proposta de contrato, tendo alto nível de abstração gera abertura para interpretações.
+- Base de um contrato em si, o qual é definido em detalhe.
+
+
+Para a coleta de requisitos se tem inumeras formas diferentes, mas o objetivo é evitar o Tire Swing Cartoon.
+
+
+                     TIPOS DE REQUISITOS
+Em suma há 2, de usuário e de sistema.
+
+Requisitos de usuário:
+- Declarações em linguagem natural mais diagramas de serviços que o sistema fornece e suas restrições operacionais. Escritos para o usuário.
+
+Requisitos de sistema:
+- Documento estruturado estabelecendo descrições detalhadas das funções, serviços e restrições operacionais do sistema. Define o que deve ser implementado e assim, pode ser parte de um contrato entre o cliente e o desenvolvedor
+
+
+Requisito Funcional:
+É em suma o que o sistema precisa realizar. “As capacidades do produto ou coisas que um produto deve fazer para seus usuários”.
+- Devem incluir descrições de toods os recursos requeridos.
+- Não deve haver conflitos ou contradições nas descrições dos recursos do sistema.
+
+Descrevem a funcionalidade ou sevriços do sistema:
+- Dependem do tipo do Software, dos usuários esperados, o tipo de sistema que o software é usado.
+- Requisitos funcionais de usuários podem ser declarações de alto nível do que o sistema deve fazer.
+- Para todo pedido deve ser alocado um identificador único que o usuário deve ser capaz de copiar para a área de armazenamento permanente da sua conta.
+
+
+
+Requisitos não funcionais:
+
+ 
+
+=
+
+
