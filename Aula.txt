@@ -76,3 +76,73 @@ Requisitos não funcionais:
 =
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The View 4 + 1 aula mais importante.
+
+
+Precisa de uma visão lógica, de desenvolvimento, processo e fisico, os 4 cenários mais importantes.
+
+
+
+Lógica:
+Diagrama de Classes, objetos e Estados.
+
+Visão de implementação:
+Diagrama de componentes, pacotes.
+
+Visão de Processo:
+Diagrama de sequência, comunicação, atividades.
+
+Visão física:
+Diagrama de implantação.
+
+Visão de cenários:
+Casos de uso e história do usuários.
+
+
+Caso de uso é a representação das funcionalidades do ponto de vista externo. A partir dos casos de uso que modelamos os requisitos funcionais do usuário.
+Representa quem faz e o que faz.
+
+Caso de extende pode rolar ou não, o include é obrigatório.
+
+Modelos de classes tem detalhes adicionados a medida que se entende o problema e desenvolve o projeto, principalmente em diagrama de dominio.
+
+
+
+
+
+
+
+
+
+
+
